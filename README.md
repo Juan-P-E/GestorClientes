@@ -43,3 +43,4 @@ Aplicación de consola desarrollada en **C# .NET** para la gestión de clientes,
 6. Salir
 
 Seleccione una opción:
+Proyecto creado para pruebas de Git en Visual Studio.
